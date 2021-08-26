@@ -1,7 +1,7 @@
 server {
 
-	listen 2909 default_server;
-	listen [::]:2909 default_server;
+	listen 3000 default_server;
+	listen [::]:3000 default_server;
 
 	root /var/www/;
 
