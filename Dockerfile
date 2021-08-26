@@ -16,6 +16,6 @@ RUN rm -rf /etc/nginx/sites-available/default
 
 COPY default /etc/nginx/sites-available/
 
-EXPOSE 90
-EXPOSE 91
+EXPOSE 80
+EXPOSE 81
 
